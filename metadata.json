@@ -1,0 +1,7 @@
+{
+  "name": "HarvestMind MVP",
+  "description": "Cloud-Edge-Device agricultural diagnostic system for tomatoes. Features on-device simulation, sensor dashboards, and VRAG Doctor's Reports.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
